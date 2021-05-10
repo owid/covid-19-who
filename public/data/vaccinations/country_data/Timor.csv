@@ -1,2 +1,3 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Timor,2021-04-14,Oxford/AstraZeneca,http://timor-leste.gov.tl/?p=27660&lang=en,2629,2629,0
+Timor,2021-05-03,Oxford/AstraZeneca,https://covid19.who.int/region/searo/country/tl,25946,28575,0
