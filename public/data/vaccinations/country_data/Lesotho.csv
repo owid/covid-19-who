@@ -1,3 +1,4 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Lesotho,2021-03-09,Oxford/AstraZeneca,https://news.un.org/en/story/2021/04/1089792,0,0,
 Lesotho,2021-04-17,Oxford/AstraZeneca,https://news.un.org/en/story/2021/04/1089792,16000,16000,
+Lesotho,2021-05-10,Oxford/AstraZeneca,https://covid19.who.int/region/afro/country/ls,20267,20267,
