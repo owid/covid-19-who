@@ -1,3 +1,4 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 South Sudan,2021-04-05,Oxford/AstraZeneca,https://www.afro.who.int/news/covid-19-vaccination-kicks-south-sudan,0,0,0
 South Sudan,2021-04-15,Oxford/AstraZeneca,https://africa.cgtn.com/2021/04/15/south-sudan-lifts-covid-19-restrictions-amid-fall-in-infections/,947,947,0
+South Sudan,2021-05-10,Oxford/AstraZeneca,https://covid19.who.int/region/afro/country/ss,5149,5149,0
