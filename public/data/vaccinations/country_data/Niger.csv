@@ -1,3 +1,4 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Niger,2021-03-28,Sinopharm/Beijing,https://www.niameyetles2jours.com/l-uemoa/sante/2603-6631-covid-19-niger-la-campagne-de-vaccination-debute-le-29-mars,0,0,
 Niger,2021-04-17,Sinopharm/Beijing,https://www.rfi.fr/fr/afrique/20210417-au-niger-les-centres-de-vaccinations-pris-d-assaut-pour-le-petit-p%C3%A8lerinage-%C3%A0-la-mecque,1366,1366,
+Niger,2021-05-10,Sinopharm/Beijing,https://covid19.who.int/region/afro/country/ne,49688,49688,
