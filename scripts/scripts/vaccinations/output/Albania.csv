@@ -1,0 +1,79 @@
+location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
+Albania,2021-01-10,Pfizer/BioNTech,https://www.france24.com/en/live-news/20210111-albania-starts-covid-19-vaccinations-as-pm-blasts-slow-eu-help,0,0,
+Albania,2021-01-12,Pfizer/BioNTech,https://shendetesia.gov.al/dita-iii-e-vaksinimit-anticovid-kryhen-60-vaksinime-te-personelit-shendetesor/,128,128,
+Albania,2021-01-13,Pfizer/BioNTech,https://shendetesia.gov.al/dita-iii-e-vaksinimit-anticovid-kryhen-60-vaksinime-te-personelit-shendetesor/,188,188,
+Albania,2021-01-14,Pfizer/BioNTech,https://shendetesia.gov.al/dita-iv-e-vaksinimit-anticovid-kryhen-78-vaksinime-te-personelit-shendetesor/,266,266,
+Albania,2021-01-15,Pfizer/BioNTech,https://shendetesia.gov.al/dita-peste-e-vaksinimit-anticovid-kryhen-42-vaksinime-te-personelit-shendetesor/,308,308,
+Albania,2021-01-16,Pfizer/BioNTech,https://shendetesia.gov.al/16-janar-tirane-ne-diten-e-gjashte-te-vaksinimit-anti-covid-jane-vaksinuar-61-personel-shendetesor-i-spitaleve-covid-1234/,369,369,
+Albania,2021-01-17,Pfizer/BioNTech,https://shendetesia.gov.al/17-janar-ne-javen-e-pare-kryhen-405-vaksinime-anticovid-te-personelit-shendetesor/,405,405,
+Albania,2021-01-18,Pfizer/BioNTech,https://shendetesia.gov.al/18-janar-nis-java-e-dyte-e-vaksinimit-anticovid-vaksinohen-42-mjeke-dhe-infermiere/,447,447,
+Albania,2021-01-19,Pfizer/BioNTech,https://shendetesia.gov.al/19-janar-vijon-vaksinimit-anticovid-vaksinohen-483-personel-shendetesor/,483,483,
+Albania,2021-01-20,Pfizer/BioNTech,https://shendetesia.gov.al/20-janar-vijon-vaksinimit-anticovid-vaksinohen-519-personel-shendetesor/,519,519,
+Albania,2021-01-21,Pfizer/BioNTech,https://shendetesia.gov.al/21-janar-vijon-vaksinimi-anticovid-vaksinohen-549-personel-shendetesor/,549,549,
+Albania,2021-02-02,Pfizer/BioNTech,https://www.thestar.com.my/news/world/2021/02/03/albanian-pm-gets-second-dose-of-covid-19-vaccine,550,549,1
+Albania,2021-02-09,Pfizer/BioNTech,https://shendetesia.gov.al/vaksinimi-anticovid-vaksinohen-48-mjeke-dhe-infermiere/,1127,689,438
+Albania,2021-02-17,Pfizer/BioNTech,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-424-vaksinime-ne-dy-qendrat-e-vaksinimit-ne-shkoder-dhe-tirane/,1701,1090,611
+Albania,2021-02-18,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-736-te-vaksinuar-3935-testime-991-te-sheruar-1112-raste-te-reja-dhe-17-humbje-jete-ne-24-oret-e-fundit/,3049,2438,611
+Albania,2021-02-19,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-1128-te-vaksinuar-3848-testime-930-te-sheruar-1071-raste-te-reja-dhe-19-humbje-jete-ne-24-oret-e-fundit/,4177,,
+Albania,2021-02-22,Pfizer/BioNTech,https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-6278-vaksinime/,6728,6073,655
+Albania,2021-02-25,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-1031-te-vaksinuar-3691-testime-849-te-sheruar-986-raste-te-reja-dhe-21-humbje-jete-ne-24-oret-e-fundit/,10135,,
+Albania,2021-03-01,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-800-te-vaksinuar-2714-testime-640-te-sheruar-764-raste-te-reja-dhe-20-humbje-jete-ne-24-oret-e-fundit/,14295,,
+Albania,2021-03-03,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-766-te-vaksinuar-3149-testime-903-te-sheruar-851-raste-te-reja-dhe-21-humbje-jete-ne-24-oret-e-fundit/,15793,,
+Albania,2021-03-10,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-702-te-vaksinuar-3035-testime-714-te-sheruar-631-raste-te-reja-dhe-17-humbje-jete-ne-24-oret-e-fundit/,21613,,
+Albania,2021-03-12,Pfizer/BioNTech,https://shendetesia.gov.al/covid19-ministria-e-shendetesise-942-te-vaksinuar-3340-testime-872-te-sheruar-681-raste-te-reja-dhe-16-humbje-jete-ne-24-oret-e-fundit/,23635,,
+Albania,2021-03-17,"Oxford/AstraZeneca, Pfizer/BioNTech",https://shendetesia.gov.al/covid19-ministria-e-shendetesise-3338-te-vaksinuar-2997-testime-744-te-sheruar-446-raste-te-reja-dhe-15-humbje-jete-ne-24-oret-e-fundit/,33369,,
+Albania,2021-03-22,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-1714-te-vaksinuar-1993-testime-699-te-sheruar-344-raste-te-reja-dhe-8-humbje-jete-ne-24-oret-e-fundit/,48229,,
+Albania,2021-03-23,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-3461-te-vaksinuar-2174-testime-651-te-sheruar-303-raste-te-reja-dhe-11-humbje-jete-ne-24-oret-e-fundit/,51690,,
+Albania,2021-03-24,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-2302-te-vaksinuar-2475-testime-696-te-sheruar-448-raste-te-reja-dhe-15-humbje-jete-ne-24-oret-e-fundit/,53992,,
+Albania,2021-03-25,"Oxford/AstraZeneca, Pfizer/BioNTech",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-5356-te-vaksinuar-2794-testime-567-te-sheruar-472-raste-te-reja-dhe-13-humbje-jete-ne-24-oret-e-fundit/,59348,,
+Albania,2021-03-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-2900-te-vaksinuar-3012-testime-589-te-sheruar-449-raste-te-reja-dhe-8-humbje-jete-ne-24-oret-e-fundit/,62248,,
+Albania,2021-03-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sputnik V",https://coronavirus.al/lajme/covid19-ministria-e-shendetesise-1827-te-vaksinuar-3070-testime-550-te-sheruar-425-raste-te-reja-dhe-12-humbje-jete-ne-24-oret-e-fundit/,64075,,
+Albania,2021-03-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/dita-e-pare-e-vaksinimit-masiv-manastirliu-11487-vaksinime-ne-te-gjithe-vendin/,78000,,
+Albania,2021-03-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/dita-4-vijon-vaksinimi-masiv-manastirliu-jemi-te-pergatitur-per-te-rritur-numrin-e-vaksinimeve-javen-tjeter-nis-levrimi-i-dozave-te-pfizer/,119321,,
+Albania,2021-03-31,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/rama-manastirliu-inspektojne-procesin-ne-rrogozhine-e-kavaje-sot-arrijme-mbi-150-mije-vaksinime/,138846,,
+Albania,2021-04-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-155-463-vaksinime/,155463,,
+Albania,2021-04-02,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/manastirliu-inspekton-procesin-e-vaksinimit-ne-vlore-po-pergatitemi-per-uljen-e-fashes-te-moshuarit-mbi-70-vjec-me-karte-identiteti-mund-te-paraqiten-direkt-ne-qendrat-e-vaksinimit-te-perqendruar/,172486,,
+Albania,2021-04-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1378412754588073985?s=21,185496,,
+Albania,2021-04-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1378774466000527364?s=21,192882,,
+Albania,2021-04-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1379152240724877324?s=21,206708,,
+Albania,2021-04-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1379493934116790275?s=21,221588,,
+Albania,2021-04-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1379862047136083973?s=21,232379,,
+Albania,2021-04-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1380232232040808449?s=21,242542,,
+Albania,2021-04-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1380596592928026626?s=21,250676,,
+Albania,2021-04-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1380960875377537030?s=21,256810,,
+Albania,2021-04-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1381680348371767299?s=21,267531,,
+Albania,2021-04-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1382047577839960064?s=21,281216,,
+Albania,2021-04-15,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1382767411242360838?s=21,304488,,
+Albania,2021-04-16,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1383134636965036040?s=21,314622,,
+Albania,2021-04-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1383497090383323137,324840,,
+Albania,2021-04-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1383497090383323137,332905,,
+Albania,2021-04-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1384218432640487428?s=21,345934,,
+Albania,2021-04-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1384573796401786880,350000,,
+Albania,2021-04-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1384953105406640139?s=20,372075,,
+Albania,2021-04-22,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1385318471697842178?s=21,382998,,
+Albania,2021-04-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1385695302758379534?s=21,391351,,
+Albania,2021-04-24,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1386030265957588994?s=21,400064,,
+Albania,2021-04-26,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1386762674244096001?s=20,408619,,
+Albania,2021-04-27,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1387124466816323585?s=20,416855,,
+Albania,2021-04-28,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1387479165968998402?s=21,433628,,
+Albania,2021-04-29,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1387881026899386376?s=21,453248,,
+Albania,2021-04-30,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V", https://twitter.com/gmanastirliu/status/1388196292984193024,476903,,
+Albania,2021-05-01,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1388562805029212162,494028,,
+Albania,2021-05-03,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1389290072042790913,517501,,
+Albania,2021-05-04,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1389647344887545859,537387,,
+Albania,2021-05-05,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1389996840725225472,556584,,
+Albania,2021-05-06,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1390377610140700676,572226,,
+Albania,2021-05-07,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/gmanastirliu/status/1390737378789281795,585693,,
+Albania,2021-05-08,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1391104178743828484,596766,,
+Albania,2021-05-09,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1391436706474303489?s=20,600000,,
+Albania,2021-05-10,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://twitter.com/GManastirliu/status/1391826588669562886?s=20,612959,,
+Albania,2021-05-11,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-622507-vaksinime/,622507,440921,181586
+Albania,2021-05-12,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-632676-vaksinime/,632676,444755,187921
+Albania,2021-05-13,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-638338-vaksinime/,638338,445402,192936
+Albania,2021-05-14,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-653330-vaksinime/,653330,448571,204759
+Albania,2021-05-17,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-680083-vaksinime/,680083,456980,223103
+Albania,2021-05-18,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-688947-vaksinime/,688947,460191,228756
+Albania,2021-05-19,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-697811-vaksinime/,697811,463402,234409
+Albania,2021-05-20,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-703743-vaksinime/,703743,466083,237660
+Albania,2021-05-21,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-708846-vaksinime/,708846,469169,239677
+Albania,2021-05-23,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinovac, Sputnik V",https://shendetesia.gov.al/vaksinimi-anticovid-kryhen-716616-vaksinime/,716616,472840,243776
