@@ -12,7 +12,7 @@ LOCALE_LOCK = threading.Lock()
 DATE_FORMAT = "%Y-%m-%d"
 
 
-def clean_date(text, fmt, lang=None, loc=""):
+def clean_date(text, fmt, lang=None, loc="", minus_days=0):
     """Extract a date from a `text`.
     
     The date from text is extracted using locale `loc`. Alternatively, you can provide language `lang` instead.
@@ -27,6 +27,7 @@ def clean_date(text, fmt, lang=None, loc=""):
                                 based on `lang`. Defaults to None.
         loc (str, optional): Locale, e.g es_ES. Get list of available locales with `locale.locale_alias` or
                                 `locale.windows_locale` in windows. Defaults to "" (system default).
+        minus_days (int, optional): Number of days to subtract. Defaults to 0.
 
     Returns:
         str: Extracted date in format %Y-%m-%d
@@ -40,7 +41,9 @@ def clean_date(text, fmt, lang=None, loc=""):
             loc = loc.replace("_", "-")
     # Thread-safe extract date
     with _setlocale(loc):
-        return datetime.strptime(text, fmt).strftime(DATE_FORMAT)
+        return (
+            datetime.strptime(text, fmt) - timedelta(days=minus_days)
+        ).strftime(DATE_FORMAT)
 
 
 def localdatenow(tz=None):
