@@ -103,16 +103,22 @@ South Korea,2021-06-06,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.
 South Korea,2021-06-07,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,10755652,8455799,2299853
 South Korea,2021-06-08,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,11527605,9202346,2325259
 South Korea,2021-06-09,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,12143648,9794163,2349485
-South Korea,2021-06-10,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,13201539,10565404,2636135
-South Korea,2021-06-11,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,14261118,11387256,2873862
-South Korea,2021-06-12,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,14794416,11802287,2992129
-South Korea,2021-06-13,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,14834410,11830381,3004029
-South Korea,2021-06-14,"Oxford/AstraZeneca, Pfizer/BioNTech",http://ncv.kdca.go.kr/,15828002,12565269,3262733
-South Korea,2021-06-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713686&cg_code=&act=view&nPage=1,16504369,13790841,3755040
-South Korea,2021-06-20,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713723&cg_code=&act=view&nPage=1,17946801,15014819,4047846
-South Korea,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713731&cg_code=&act=view&nPage=1,18086202,15039998,4167533
-South Korea,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713739&cg_code=&act=view&nPage=1,18267181,15098865,4292272
-South Korea,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713745&cg_code=&act=view&nPage=1,18438254,15150121,4413494
-South Korea,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713764&cg_code=&act=view&nPage=1,18595784,15199919,4521785
-South Korea,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713777&cg_code=&act=view&nPage=1,18806956,15290216,4643211
-South Korea,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",http://www.kdca.go.kr/board/board.es?mid=a20501010000&bid=0015&list_no=713782&cg_code=&act=view&nPage=1,18807776,15290302,4643951
+South Korea,2021-06-10,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,12993175,10605707,2640187
+South Korea,2021-06-11,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,13855552,11432717,2877588
+South Korea,2021-06-12,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,14249523,11821708,2996773
+South Korea,2021-06-13,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,14277604,11849574,3008758
+South Korea,2021-06-14,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,15133848,12619009,3267508
+South Korea,2021-06-15,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,15877730,13266098,3476708
+South Korea,2021-06-16,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,16551247,13834494,3759527
+South Korea,2021-06-17,"Johnson&Johnson, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,17098158,14277712,3888995
+South Korea,2021-06-18,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,17732229,14814850,4016740
+South Korea,2021-06-19,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,17965530,15031166,4052751
+South Korea,2021-06-20,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,17966858,15031779,4053887
+South Korea,2021-06-21,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18128528,15079192,4171325
+South Korea,2021-06-22,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18300100,15127902,4296663
+South Korea,2021-06-23,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18463177,15171801,4416880
+South Korea,2021-06-24,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18615956,15217340,4524614
+South Korea,2021-06-25,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18775078,15280215,4621279
+South Korea,2021-06-26,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18809839,15291411,4644933
+South Korea,2021-06-27,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18810579,15291417,4645673
+South Korea,2021-06-28,"Johnson&Johnson, Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",https://ncv.kdca.go.kr/board.es?mid=a11710000000&bid=0037,18935546,15304120,4758395
