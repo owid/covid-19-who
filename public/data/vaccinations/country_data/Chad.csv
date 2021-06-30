@@ -1,3 +1,4 @@
 location,date,vaccine,source_url,total_vaccinations,people_vaccinated,people_fully_vaccinated
 Chad,2021-06-10,BBIBP-CorV,https://covid19.who.int/,5324,5324,0
 Chad,2021-06-23,BBIBP-CorV,https://africacdc.org/covid-19-vaccination/,8981,8981,0
+Chad,2021-06-10,BBIBP-CorV,https://covid19.who.int/,9799,9799,0
