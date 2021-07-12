@@ -79,7 +79,7 @@ class Taiwan:
 
     def _parse_date(self, soup) -> str:
         date_raw = soup.find(class_="download").text
-        regex = r"(\d{4})\sCOVID-19疫苗(接種)?日報表"
+        regex = r"(\d{4})\sCOVID-19疫苗(接種)?(統計資料|日報表)"
         date_str = re.search(regex, date_raw).group(1)
         date_str = clean_date("2021" + date_str, "%Y%m%d")
         return date_str
