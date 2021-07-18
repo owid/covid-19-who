@@ -8,17 +8,18 @@ from vax.utils.dates import localdatenow, clean_date
 class India:
     def __init__(self) -> None:
         self.location = "India"
-        self.source_url = "https://www.mygov.in/sites/default/files/covid/vaccine/vaccine_counts_today.json"
+        self.source_url = "https://api.covid19india.org/data.json"
+        # alt: f"https://www.mygov.in/sites/default/files/covid/vaccine/vaccine_counts_today.json"
         # alt: f"https://api.cowin.gov.in/api/v1/reports/v2/getPublicReports?state_id=&district_id=&date={date_str}"
-        self.source_url_ref = "https://www.mohfw.gov.in/"
+        self.source_url_ref = "https://covid19india.org"
 
     def read(self) -> pd.Series:
         data = requests.get(self.source_url).json()
 
-        people_vaccinated = data["india_dose1"]
-        people_fully_vaccinated = data["india_dose2"]
-        total_vaccinations = data["india_total_doses"]
-        date = data["day"]
+        people_vaccinated = data["firstdoseadministered"]
+        people_fully_vaccinated = data["seconddoseadministered"]
+        total_vaccinations = data["totaldosesadministered"]
+        date = data["testedasof"]
 
         return pd.Series(
             {
